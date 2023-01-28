@@ -16,9 +16,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/styles/");
 
   var pathPrefix = "";
-  if (process.env.GITHUB_REPOSITORY) {
-    pathPrefix = process.env.GITHUB_REPOSITORY.split('/')[1];
-  }
+  // TODO: this messes with GitHub Pages on the apex domain
+  // if (process.env.GITHUB_REPOSITORY) {
+  //   pathPrefix = process.env.GITHUB_REPOSITORY.split('/')[1];
+  // }
 
   return {
     dir: {
