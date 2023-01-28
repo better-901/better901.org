@@ -1,4 +1,39 @@
 {
-  "title": "windty 🌬️",
-  "description": "Windty is a basic template using 11ty and Tailwind, and deploys to github pages."
+  "title": "Better901",
+  "tagline": "For a better Memphis.",
+  "description": "Better901 is dedicated to improving the city of Memphis, TN by highlighting and supporting the efforts of local charities making a positive impact in the city.",
+  "callToAction": " Join us in making Memphis a better place for all by supporting the work of these outstanding organizations.",
+  "charities": [
+    {
+      "name": "Just City",
+      "description": "Just City's mission is to transform local criminal justice policy and practice to ensure it is fair for all people regardless of wealth, race, or ethnicity.",
+      "link": "https://www.justcity.org/"
+    },
+    {
+      "name": "MICAH",
+      "description": "MICAH (Memphis Interfaith Coalition for Action and Hope) is a coalition of community and faith-based organizations joining together to give a more powerful voice for issues of justice in the city of Memphis. The current platform concentrates on three pillar issues, economic equity, education equity, and race & class equity in the justice system.",
+      "link": "https://www.micahmemphis.org/"
+    },
+    {
+      "name": "Mid-South Food Bank",
+      "description": "Mid-South Food Bank currently distributes an average of 4 million meals a month through a network of 300 partner agencies in 12 counties in West Tennessee, 18 counties in north Mississippi, and one county in Arkansas.",
+      "link": "https://www.midsouthfoodbank.org/"
+    },
+    {
+      "name": "Mid-South Immigration Advocates (MIA)",
+      "description": "Mid-South Immigration Advocates (MIA) is the first nonprofit law firm in the region whose core mission is to provide free and affordable immigration representation to low-income clients.",
+      "link": "https://miamemphis.org/"
+    },
+    {
+      "name": "OUTMemphis",
+      "description": "For 30+ years, OUTMemphis has been working to empower, connect, educate, and advocate for the LGBTQ+ community of the Mid-South.",
+      "link": "https://www.outmemphis.org/"
+    },
+    {
+      "name": "Ronald McDonald House Charities of Memphis",
+      "description": "RMHC-Memphis opened its doors to serve families who live too far away from medical treatment to stay close to the hospital. They welcome every patient of St. Jude Children's Research Hospital, regardless of religion, ethnicity, race, gender, national origin, and age.",
+      "link": "https://rmhc-memphis.org/"
+    }
+  ],
+  "infoEmail": "info@better901.org"
 }
