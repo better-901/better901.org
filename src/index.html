@@ -15,7 +15,8 @@ layout: default
     </div>
     <table class="table-auto border border-white border-spacing-2">
       <tbody class="border border-navy">
-        {% for charity in metadata.charities %}
+        {% assign sortedByName = metadata.charities | sort: 'name' %}
+        {% for charity in sortedByName %}
         <tr class="border border-navy ">
           <td class="border border-navy text-center p-2"><a href="{{charity.link}}" target="_blank"
               class="underline">{{charity.name}}</a>

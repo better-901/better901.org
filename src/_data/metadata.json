@@ -33,6 +33,16 @@
       "name": "Ronald McDonald House Charities of Memphis",
       "description": "RMHC-Memphis opened its doors to serve families who live too far away from medical treatment to stay close to the hospital. They welcome every patient of St. Jude Children's Research Hospital, regardless of religion, ethnicity, race, gender, national origin, and age.",
       "link": "https://rmhc-memphis.org/"
+    },
+    {
+      "name": "Hope House",
+      "description": "Hope House's mission is to improve the quality of life for individuals and families affected by HIV and poverty.",
+      "link": "https://www.hopehousememphis.org/"
+    },
+    {
+      "name": "Church Health",
+      "description": "As the largest privately funded faith-based health care organization in the US, Church Health Center provides quality, affordable health care to the working uninsured of Memphis and Shelby County, Tennessee.",
+      "link": "https://churchhealth.org/"
     }
   ],
   "infoEmail": "info@better901.org"
